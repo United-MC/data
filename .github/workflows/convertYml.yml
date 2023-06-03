@@ -10,7 +10,7 @@ jobs:
     - name: Check-out repository
       uses: actions/checkout@v2
       with:
-        repository: United-MC/data/
+        repository: United-MC/data
         token: ${{ secrets.GITHUB_TOKEN }}
         path: /
     - name: Run Script
