@@ -16,7 +16,11 @@ jobs:
       with:
         repository: United-MC/data
         token: ${{ secrets.GITHUB_TOKEN }}
-        path: ${{ env.DEVOPS_DIR }}
+        path: ./
+        
+    - name: List
+      run: ls
+      shell: sh
       
     - name: Run Script
       run: python mergeYamlAndConvert.py
