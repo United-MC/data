@@ -42,9 +42,9 @@ def convert_to_xml(element, data):
                 convert_to_xml(sub_element, item)
             else:
                 sub_element = ET.SubElement(element, 'item', index=str(i))
-                sub_element.text = xml.sax.saxutils.escape(str(item) if item is not None else '')
+                sub_element.text = xml.sax.saxutils.escape(str(item) if item is not None else '')  # Convert None to empty string
     else:
-        element.text = xml.sax.saxutils.escape(str(data) if data is not None else '')
+        element.text = xml.sax.saxutils.escape(str(data) if data is not None else '')  # Convert None to empty string
 
 root = ET.Element('root')
 for filename, yaml_data in yaml_objects.items():
@@ -56,23 +56,29 @@ def rename_tags_with_numbers(element):
     for child in list(element):
         if child.tag.isdigit():
             index = child.attrib.pop('index', None)
-            item = ET.SubElement(element, 'item', index=index)
-            item.extend(list(child))
-            element.remove(child)
+            new_tag = 'item_{}'.format(index) if index is not None else 'item'
+            child.tag = new_tag
+            rename_tags_with_numbers(child)
         else:
             rename_tags_with_numbers(child)
 
-rename_tags_with_numbers(root)
+# Create a new XML tree to perform tag renaming
+new_root = ET.Element(root.tag)
+new_root.extend(root)
+rename_tags_with_numbers(new_root)
 
-# Create an ElementTree object
-tree = ET.ElementTree(root)
+# Create an ElementTree object with the new XML tree
+tree = ET.ElementTree(new_root)
 
 # Write the XML data to the output XML file with pretty formatting
-with open(output_file_xml, 'w', encoding='utf-8') as file:
-    tree.write(file, encoding='unicode', xml_declaration=True)
+with open(output_file_xml, 'wb') as file:
+    tree.write(file, encoding='utf-8', xml_declaration=True)
 
 # Read the XML data from the file and apply pretty formatting
 with open(output_file_xml, 'r', encoding='utf-8') as file:
     xml_data = file.read()
     xml_data = xml_data.replace('><', '>\n<')
 
+# Write the pretty-printed XML data to the output XML file
+with open(output_file_xml, 'w', encoding='utf-8') as file:
+    file.write(xml_data)
