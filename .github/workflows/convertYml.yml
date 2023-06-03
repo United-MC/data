@@ -7,7 +7,7 @@ on:
 
 jobs:
   convert:
-    name: Run Convert Script
+    name: Run Convert Script an push
     runs-on: ubuntu-latest
     steps:
     - name: Check-out repository
