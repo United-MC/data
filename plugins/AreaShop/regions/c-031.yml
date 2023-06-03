@@ -4,7 +4,7 @@ general:
   type: buy
   landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
   landlordName: Andolon
-  lastActive: 1685790842481
+  lastActive: 1685804185912
 buy:
   price: 4000.0
   buyer: d5938d32-f131-4dce-9dec-10e64ec2d70e
