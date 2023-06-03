@@ -51,8 +51,30 @@ for filename, yaml_data in yaml_objects.items():
     item = ET.SubElement(root, filename.split('.')[0])
     convert_to_xml(item, yaml_data)
 
+# Function to rename tags starting with numbers
+def rename_tags_with_numbers(element):
+    for child in list(element):
+        if child.tag.isdigit():
+            index = child.attrib.pop('index', None)
+            item = ET.SubElement(element, 'item', index=index)
+            item.extend(list(child))
+            element.remove(child)
+        else:
+            rename_tags_with_numbers(child)
+
+rename_tags_with_numbers(root)
+
 # Create an ElementTree object
 tree = ET.ElementTree(root)
 
 # Write the XML data to the output XML file with pretty formatting
-tree.write(output_file_xml, encoding='utf-8', xml_declaration=True, short_empty_elements=False)
+tree.write(output_file_xml, encoding='utf-8', xml_declaration=True)
+
+# Read the XML data from the file and apply pretty formatting
+with open(output_file_xml, 'r') as file:
+    xml_data = file.read()
+    xml_data = xml_data.replace('><', '>\n<')
+
+# Write the pretty-printed XML data to the output XML file
+with open(output_file_xml, 'w') as file:
+    file.write(xml_data)
