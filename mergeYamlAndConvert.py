@@ -2,7 +2,6 @@ import glob
 import os
 import yaml
 import xml.etree.ElementTree as ET
-import xml.dom.minidom
 import xml.sax.saxutils
 
 # Define the directory where your YAML files are located
@@ -52,12 +51,9 @@ for filename, yaml_data in yaml_objects.items():
     item = ET.SubElement(root, filename.split('.')[0])
     convert_to_xml(item, yaml_data)
 
-xml_data = ET.tostring(root, encoding='unicode')
+# Create an ElementTree object
+tree = ET.ElementTree(root)
 
-# Format the XML data with indentation
-dom = xml.dom.minidom.parseString(xml_data)
-pretty_xml_data = dom.toprettyxml(indent='  ')
+# Write the XML data to the output XML file
+tree.write(output_file_xml, encoding='utf-8', xml_declaration=True)
 
-# Write the pretty-printed XML data to the output XML file
-with open(output_file_xml, 'w') as file:
-    file.write(pretty_xml_data)
