@@ -1,0 +1,14 @@
+general:
+  name: c-040
+  world: Andolon5
+  type: buy
+  landlord: c32507b6-c691-46f8-831e-ec47ec181029
+  landlordName: Matty707
+  lastActive: 1672870486405
+  friends:
+  - c4b3ed28-d61c-46bc-8f0d-b87f81620974
+  signs: {}
+buy:
+  price: 6500.0
+  buyer: c32507b6-c691-46f8-831e-ec47ec181029
+  buyerName: Matty707

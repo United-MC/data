@@ -1,0 +1,15 @@
+general:
+  name: f-009
+  world: Andolon5
+  type: buy
+  landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+  landlordName: Andolon
+  lastActive: 1672870486405
+  friends:
+  - 86b16f55-8641-44b0-b996-eba7c4ea7677
+  - a12cd218-6ffb-4e2b-9519-2682e976dbaa
+  - c4b3ed28-d61c-46bc-8f0d-b87f81620974
+buy:
+  price: 5500.0
+  buyer: c32507b6-c691-46f8-831e-ec47ec181029
+  buyerName: Matty707

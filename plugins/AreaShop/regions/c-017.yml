@@ -1,0 +1,11 @@
+general:
+  name: c-017
+  world: Andolon5
+  type: buy
+  landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+  landlordName: Andolon
+  lastActive: 1678753382774
+buy:
+  price: 4500.0
+  buyer: 15882919-c13a-407c-b672-cb882260ff45
+  buyerName: NightCitizen7

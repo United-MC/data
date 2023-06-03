@@ -1,0 +1,15 @@
+general:
+  name: mcorp-f5-apt2
+  world: Andolon5
+  type: rent
+  landlord: c32507b6-c691-46f8-831e-ec47ec181029
+  landlordName: Matty707
+  signs: {}
+  lastActive: 1683676805665
+rent:
+  price: 250.0
+  duration: 30 days
+  rentedUntil: 1686240057677
+  renter: ef486541-b63f-4e91-adbc-6cf6a8105b61
+  renterName: Andolon
+  timesExtended: 0

@@ -1,0 +1,15 @@
+general:
+  name: c-002
+  world: Andolon5
+  type: buy
+  landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+  landlordName: Andolon
+  lastActive: 1672870486404
+  friends:
+  - 3a1ea660-9d89-43a9-bac9-96306107b391
+  - 90244e28-c5d7-4ba0-a97f-9718a276ceb1
+  - e8d195db-1d29-4e55-98e8-43f5afcc4958
+buy:
+  price: 5500.0
+  buyer: 65cbb113-08ff-4bdf-8097-633f3fed2ab8
+  buyerName: MegaMinerM

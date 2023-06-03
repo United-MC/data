@@ -1,0 +1,11 @@
+general:
+  name: f-001
+  world: Andolon5
+  type: buy
+  landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+  landlordName: Andolon
+  lastActive: 1672870486405
+buy:
+  price: 5500.0
+  buyer: f44d02eb-c6c3-44d9-8e79-b8d64883f37a
+  buyerName: DoubbleKerius

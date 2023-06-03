@@ -1,0 +1,8 @@
+general:
+  name: c-026
+  world: Andolon5
+  type: buy
+  landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+  landlordName: Andolon
+buy:
+  price: 4500.0

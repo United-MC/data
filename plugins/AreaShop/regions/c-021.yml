@@ -1,0 +1,14 @@
+general:
+  name: c-021
+  world: Andolon5
+  type: buy
+  landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+  landlordName: Andolon
+  lastActive: 1685793604891
+  friends:
+  - a605b4a8-e3a3-456d-98dc-ca3113b7e434
+  - 6b2c9294-f4e2-4ffd-9e5f-d0b58150e76f
+buy:
+  price: 4000.0
+  buyer: 90244e28-c5d7-4ba0-a97f-9718a276ceb1
+  buyerName: 008kevin

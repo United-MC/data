@@ -1,0 +1,13 @@
+general:
+  name: c-010
+  world: Andolon5
+  type: buy
+  lastActive: 1672870486404
+  landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+  landlordName: Andolon
+  friends:
+  - 15882919-c13a-407c-b672-cb882260ff45
+buy:
+  price: 3000.0
+  buyer: 283688ad-0e11-4ca9-a5fc-63de154f00eb
+  buyerName: seanboi

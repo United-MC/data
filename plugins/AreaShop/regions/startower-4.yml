@@ -1,0 +1,9 @@
+general:
+  name: startower-4
+  world: Andolon5
+  type: rent
+  landlord: c32507b6-c691-46f8-831e-ec47ec181029
+  landlordName: Matty707
+rent:
+  price: 25.0
+  duration: 7 days

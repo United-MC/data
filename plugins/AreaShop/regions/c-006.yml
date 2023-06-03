@@ -1,0 +1,13 @@
+general:
+  name: c-006
+  world: Andolon5
+  type: buy
+  landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+  landlordName: Andolon
+  lastActive: 1672870486404
+  friends:
+  - e8d195db-1d29-4e55-98e8-43f5afcc4958
+buy:
+  price: 5500.0
+  buyer: 138e9e75-b2fd-4218-aca6-4817ac8e5240
+  buyerName: WolfenGamer

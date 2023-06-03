@@ -1,0 +1,14 @@
+general:
+  name: c-007
+  world: Andolon5
+  type: buy
+  landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+  landlordName: Andolon
+  lastActive: 1672870486404
+  friends:
+  - c7cff47e-3f90-4f22-95dc-5a3ad78a04d4
+  - 6dd80329-f44a-4728-93d2-d03628713d79
+buy:
+  price: 5500.0
+  buyer: ca43c7f0-aa99-47bb-831a-deabb0f9608c
+  buyerName: Creepsteve05

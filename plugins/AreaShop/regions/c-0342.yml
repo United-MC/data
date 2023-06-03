@@ -1,0 +1,6 @@
+general:
+  name: c-0342
+  world: Andolon5
+  type: buy
+buy:
+  price: 1250.0

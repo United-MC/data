@@ -1,0 +1,18 @@
+general:
+  name: subwaystore-1
+  world: Andolon5
+  type: rent
+  landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+  landlordName: Andolon
+  signs:
+    '0':
+      location:
+        world: Andolon5
+        x: 1578.0
+        y: 17.0
+        z: 534.0
+      facing: NORTH
+      signType: BIRCH_WALL_SIGN
+rent:
+  price: 500.0
+  duration: 30 days

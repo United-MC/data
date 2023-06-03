@@ -1,0 +1,9 @@
+general:
+  name: r-004-towers
+  world: Andolon5
+  type: rent
+  landlord: 4b01915f-6b62-4861-8ae1-b30b559f4c8c
+  landlordName: UnityMaster
+rent:
+  duration: 7 days
+  price: 100.0

@@ -1,0 +1,10 @@
+general:
+  name: mcorp-f2-apt4
+  world: Andolon5
+  type: rent
+  landlord: c32507b6-c691-46f8-831e-ec47ec181029
+  landlordName: Matty707
+  signs: {}
+rent:
+  duration: 30 days
+  price: 150.0

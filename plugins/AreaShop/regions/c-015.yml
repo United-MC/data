@@ -1,0 +1,17 @@
+general:
+  name: c-015
+  world: Andolon5
+  type: buy
+  landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+  landlordName: Andolon
+  lastActive: 1672870486404
+  friends:
+  - 65cbb113-08ff-4bdf-8097-633f3fed2ab8
+  - d5938d32-f131-4dce-9dec-10e64ec2d70e
+  - 7e45efa3-0e96-4f72-abb4-192cec3f0122
+  - 15882919-c13a-407c-b672-cb882260ff45
+  - 291c83b2-9c1b-4363-b13e-3fd946eeafd9
+buy:
+  price: 3000.0
+  buyer: 56608b75-c5c0-4ee0-93e4-7ff4fa68d3d8
+  buyerName: Bezzergeezer

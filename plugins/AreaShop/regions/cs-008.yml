@@ -1,0 +1,9 @@
+general:
+  name: cs-008
+  world: Andolon5
+  type: rent
+  landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+  landlordName: Andolon
+rent:
+  duration: 30 days
+  price: 1750.0

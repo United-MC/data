@@ -1,0 +1,18 @@
+general:
+  name: mcorp-f3-apt1
+  world: Andolon5
+  type: rent
+  signs:
+    '0':
+      location:
+        world: Andolon5
+        x: 1587.0
+        y: 35.0
+        z: 632.0
+      facing: SOUTH
+      signType: OAK_WALL_SIGN
+  landlord: c32507b6-c691-46f8-831e-ec47ec181029
+  landlordName: Matty707
+rent:
+  duration: 30 days
+  price: 300.0
