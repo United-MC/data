@@ -36,12 +36,12 @@ def convert_to_xml(element, data):
             sub_element = ET.SubElement(element, key)
             convert_to_xml(sub_element, value)
     elif isinstance(data, list):
-        for item in data:
+        for i, item in enumerate(data, start=1):
             if isinstance(item, dict):
-                sub_element = ET.SubElement(element, 'item')
+                sub_element = ET.SubElement(element, 'item', index=str(i))
                 convert_to_xml(sub_element, item)
             else:
-                sub_element = ET.SubElement(element, 'item')
+                sub_element = ET.SubElement(element, 'item', index=str(i))
                 sub_element.text = xml.sax.saxutils.escape(str(item))
     else:
         element.text = xml.sax.saxutils.escape(str(data))
@@ -54,6 +54,5 @@ for filename, yaml_data in yaml_objects.items():
 # Create an ElementTree object
 tree = ET.ElementTree(root)
 
-# Write the XML data to the output XML file
-tree.write(output_file_xml, encoding='utf-8', xml_declaration=True)
-
+# Write the XML data to the output XML file with pretty formatting
+tree.write(output_file_xml, encoding='utf-8', xml_declaration=True, short_empty_elements=False)
