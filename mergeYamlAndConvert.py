@@ -5,7 +5,7 @@ import xml.etree.ElementTree as ET
 import xml.dom.minidom
 
 # Define the directory where your YAML files are located
-data_directory = 'data/'
+data_directory = 'plugins/AreaShop/regions'
 
 # Initialize an empty dictionary to store the YAML contents
 yaml_objects = {}
