@@ -1,27 +1,33 @@
 name: On Push Run
 
-on: push
+on:
+  push:
+    paths:
+      - '**.yml'
 
 jobs:
   convert:
     name: Run Convert Script
     runs-on: ubuntu-latest
     steps:
-    - name: List
-      run: ls
-      shell: sh
-      
-    - name: Check-out devops repository
+    - name: Check-out repository
       uses: actions/checkout@v2
       with:
         repository: United-MC/data
         token: ${{ secrets.GITHUB_TOKEN }}
         path: ./
-        
-    - name: List
-      run: ls
-      shell: sh
       
     - name: Run Script
       run: python mergeYamlAndConvert.py
       shell: sh
+      
+    - name: Commit files
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git commit -a -m "Combine files"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
