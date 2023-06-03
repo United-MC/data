@@ -4,9 +4,15 @@ on: push
 
 jobs:
   convert:
-    name: Run Conver Script
+    name: Run Convert Script
     runs-on: ubuntu-latest
     steps:
+    - name: Check-out repository
+      uses: actions/checkout@v2
+      with:
+        repository: United-MC/data/
+        token: ${{ secrets.GITHUB_TOKEN }}
+        path: /
     - name: Run Script
       run: python mergeYamlAndConvert.py
       shell: sh
