@@ -12,7 +12,7 @@ jobs:
       with:
         repository: United-MC/data
         token: ${{ secrets.GITHUB_TOKEN }}
-        path: /
+        path: ./
     - name: Run Script
       run: python mergeYamlAndConvert.py
       shell: sh
