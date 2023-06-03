@@ -1,0 +1,1335 @@
+c-001.yml:
+  buy:
+    buyer: 291c83b2-9c1b-4363-b13e-3fd946eeafd9
+    buyerName: Hanhatfre
+    price: 2000.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1672870486404
+    name: c-001
+    type: buy
+    world: Andolon5
+c-002.yml:
+  buy:
+    buyer: 65cbb113-08ff-4bdf-8097-633f3fed2ab8
+    buyerName: MegaMinerM
+    price: 5500.0
+  general:
+    friends:
+    - 3a1ea660-9d89-43a9-bac9-96306107b391
+    - 90244e28-c5d7-4ba0-a97f-9718a276ceb1
+    - e8d195db-1d29-4e55-98e8-43f5afcc4958
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1672870486404
+    name: c-002
+    type: buy
+    world: Andolon5
+c-003.yml:
+  buy:
+    price: 5500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: c-003
+    type: buy
+    world: Andolon5
+c-004.yml:
+  buy:
+    buyer: 56608b75-c5c0-4ee0-93e4-7ff4fa68d3d8
+    buyerName: Bezzergeezer
+    price: 5500.0
+  general:
+    friends:
+    - c4b3ed28-d61c-46bc-8f0d-b87f81620974
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1672870486404
+    name: c-004
+    type: buy
+    world: Andolon5
+c-005.yml:
+  buy:
+    price: 5500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: c-005
+    type: buy
+    world: Andolon5
+c-006.yml:
+  buy:
+    buyer: 138e9e75-b2fd-4218-aca6-4817ac8e5240
+    buyerName: WolfenGamer
+    price: 5500.0
+  general:
+    friends:
+    - e8d195db-1d29-4e55-98e8-43f5afcc4958
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1672870486404
+    name: c-006
+    type: buy
+    world: Andolon5
+c-007.yml:
+  buy:
+    buyer: ca43c7f0-aa99-47bb-831a-deabb0f9608c
+    buyerName: Creepsteve05
+    price: 5500.0
+  general:
+    friends:
+    - c7cff47e-3f90-4f22-95dc-5a3ad78a04d4
+    - 6dd80329-f44a-4728-93d2-d03628713d79
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1672870486404
+    name: c-007
+    type: buy
+    world: Andolon5
+c-008.yml:
+  buy:
+    price: 5500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: c-008
+    type: buy
+    world: Andolon5
+c-009.yml:
+  buy:
+    price: 5500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: c-009
+    type: buy
+    world: Andolon5
+c-010.yml:
+  buy:
+    buyer: 283688ad-0e11-4ca9-a5fc-63de154f00eb
+    buyerName: seanboi
+    price: 3000.0
+  general:
+    friends:
+    - 15882919-c13a-407c-b672-cb882260ff45
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1672870486404
+    name: c-010
+    type: buy
+    world: Andolon5
+c-011.yml:
+  buy:
+    buyer: 2ad4ee61-a0c2-45e2-b5f9-a180869a4fa0
+    buyerName: Dusty_3
+    price: 5500.0
+  general:
+    friends:
+    - 3a1ea660-9d89-43a9-bac9-96306107b391
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1685622594669
+    name: c-011
+    type: buy
+    world: Andolon5
+c-012.yml:
+  buy:
+    buyer: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    buyerName: Andolon
+    price: 2500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1683676805665
+    name: c-012
+    type: buy
+    world: Andolon5
+c-013.yml:
+  buy:
+    price: 4500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: c-013
+    type: buy
+    world: Andolon5
+c-014.yml:
+  buy:
+    buyer: d92c9ff4-1c91-4bc1-87d2-c99518e1c255
+    buyerName: Syronic
+    price: 5500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1684954353445
+    name: c-014
+    type: buy
+    world: Andolon5
+c-015.yml:
+  buy:
+    buyer: 56608b75-c5c0-4ee0-93e4-7ff4fa68d3d8
+    buyerName: Bezzergeezer
+    price: 3000.0
+  general:
+    friends:
+    - 65cbb113-08ff-4bdf-8097-633f3fed2ab8
+    - d5938d32-f131-4dce-9dec-10e64ec2d70e
+    - 7e45efa3-0e96-4f72-abb4-192cec3f0122
+    - 15882919-c13a-407c-b672-cb882260ff45
+    - 291c83b2-9c1b-4363-b13e-3fd946eeafd9
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1672870486404
+    name: c-015
+    type: buy
+    world: Andolon5
+c-016.yml:
+  buy:
+    price: 3500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: c-016
+    type: buy
+    world: Andolon5
+c-017.yml:
+  buy:
+    buyer: 15882919-c13a-407c-b672-cb882260ff45
+    buyerName: NightCitizen7
+    price: 4500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1678753382774
+    name: c-017
+    type: buy
+    world: Andolon5
+c-018.yml:
+  buy:
+    price: 4000.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: c-018
+    type: buy
+    world: Andolon5
+c-019.yml:
+  buy:
+    price: 150000.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: c-019
+    type: buy
+    world: Andolon5
+c-020.yml:
+  buy:
+    price: 4000.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: c-020
+    type: buy
+    world: Andolon5
+c-021.yml:
+  buy:
+    buyer: 90244e28-c5d7-4ba0-a97f-9718a276ceb1
+    buyerName: 008kevin
+    price: 4000.0
+  general:
+    friends:
+    - a605b4a8-e3a3-456d-98dc-ca3113b7e434
+    - 6b2c9294-f4e2-4ffd-9e5f-d0b58150e76f
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1685821778527
+    name: c-021
+    type: buy
+    world: Andolon5
+c-022.yml:
+  buy:
+    buyer: 4b01915f-6b62-4861-8ae1-b30b559f4c8c
+    buyerName: UnityMaster
+    price: 6500.0
+  general:
+    friends:
+    - c4b3ed28-d61c-46bc-8f0d-b87f81620974
+    - 251bd688-d6e4-4c73-b540-b68bda5eead5
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1665382105106
+    name: c-022
+    type: buy
+    world: Andolon5
+c-023.yml:
+  buy:
+    price: 5500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: c-023
+    type: buy
+    world: Andolon5
+c-024.yml:
+  buy:
+    price: 4500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: c-024
+    type: buy
+    world: Andolon5
+c-025.yml:
+  buy:
+    price: 4500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: c-025
+    type: buy
+    world: Andolon5
+c-026.yml:
+  buy:
+    price: 4500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: c-026
+    type: buy
+    world: Andolon5
+c-027.yml:
+  buy:
+    price: 4500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: c-027
+    type: buy
+    world: Andolon5
+c-028.yml:
+  buy:
+    price: 5500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: c-028
+    type: buy
+    world: Andolon5
+c-029.yml:
+  buy:
+    buyer: 4b01915f-6b62-4861-8ae1-b30b559f4c8c
+    buyerName: UnityMaster
+    price: 4500.0
+  general:
+    friends:
+    - c4b3ed28-d61c-46bc-8f0d-b87f81620974
+    - 251bd688-d6e4-4c73-b540-b68bda5eead5
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1685770597159
+    name: c-029
+    type: buy
+    world: Andolon5
+c-030.yml:
+  buy:
+    buyer: 4b01915f-6b62-4861-8ae1-b30b559f4c8c
+    buyerName: UnityMaster
+    price: 6500.0
+  general:
+    friends:
+    - 663b81f3-be02-42b2-9cfd-596fe633c9dc
+    - c4b3ed28-d61c-46bc-8f0d-b87f81620974
+    - 251bd688-d6e4-4c73-b540-b68bda5eead5
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1685770597159
+    name: c-030
+    type: buy
+    world: Andolon5
+c-031.yml:
+  buy:
+    buyer: d5938d32-f131-4dce-9dec-10e64ec2d70e
+    buyerName: Th0re_
+    price: 4000.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1685804185912
+    name: c-031
+    type: buy
+    world: Andolon5
+c-032.yml:
+  buy:
+    buyer: d5938d32-f131-4dce-9dec-10e64ec2d70e
+    buyerName: Th0re_
+    price: 4000.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1663524186445
+    name: c-032
+    type: buy
+    world: Andolon5
+c-033.yml:
+  buy:
+    buyer: d5938d32-f131-4dce-9dec-10e64ec2d70e
+    buyerName: Th0re_
+    price: 4000.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1663524186445
+    name: c-033
+    type: buy
+    world: Andolon5
+c-034.yml:
+  buy:
+    buyer: 23db2a19-fc32-443a-872d-73113ab631ba
+    buyerName: Oyon
+    price: 3000.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1672870486404
+    name: c-034
+    type: buy
+    world: Andolon5
+c-0342.yml:
+  buy:
+    price: 1250.0
+  general:
+    name: c-0342
+    type: buy
+    world: Andolon5
+c-035.yml:
+  buy:
+    buyer: cd260117-a684-418b-bd1b-4dfd990f9084
+    buyerName: WaffleSlime4258
+    price: 4500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1672870486404
+    name: c-035
+    type: buy
+    world: Andolon5
+c-036.yml:
+  buy:
+    buyer: cd260117-a684-418b-bd1b-4dfd990f9084
+    buyerName: WaffleSlime4258
+    price: 5000.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1664105505433
+    name: c-036
+    type: buy
+    world: Andolon5
+c-037.yml:
+  buy:
+    buyer: cd260117-a684-418b-bd1b-4dfd990f9084
+    buyerName: WaffleSlime4258
+    price: 5000.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1664105505433
+    name: c-037
+    type: buy
+    world: Andolon5
+c-038.yml:
+  buy:
+    buyer: 4b01915f-6b62-4861-8ae1-b30b559f4c8c
+    buyerName: UnityMaster
+    price: 5500.0
+  general:
+    friends:
+    - c4b3ed28-d61c-46bc-8f0d-b87f81620974
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1685770597159
+    name: c-038
+    type: buy
+    world: Andolon5
+c-039.yml:
+  buy:
+    buyer: 65cbb113-08ff-4bdf-8097-633f3fed2ab8
+    buyerName: MegaMinerM
+    price: 4500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1672870486404
+    name: c-039
+    type: buy
+    world: Andolon5
+c-040.yml:
+  buy:
+    buyer: c32507b6-c691-46f8-831e-ec47ec181029
+    buyerName: Matty707
+    price: 6500.0
+  general:
+    friends:
+    - c4b3ed28-d61c-46bc-8f0d-b87f81620974
+    landlord: c32507b6-c691-46f8-831e-ec47ec181029
+    landlordName: Matty707
+    lastActive: 1672870486405
+    name: c-040
+    signs: {}
+    type: buy
+    world: Andolon5
+cs-001.yml:
+  buy:
+    price: 30000.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: cs-001
+    type: buy
+    world: Andolon5
+cs-002.yml:
+  buy:
+    price: 30000.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: cs-002
+    type: buy
+    world: Andolon5
+cs-003.yml:
+  buy:
+    price: 25000.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: cs-003
+    type: buy
+    world: Andolon5
+cs-004.yml:
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: cs-004
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 30 days
+    price: 2000.0
+cs-005.yml:
+  buy:
+    price: 30000.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: cs-005
+    type: buy
+    world: Andolon5
+cs-006.yml:
+  buy:
+    price: 20000.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: cs-006
+    type: buy
+    world: Andolon5
+cs-007.yml:
+  buy:
+    price: 20000.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: cs-007
+    type: buy
+    world: Andolon5
+cs-008.yml:
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: cs-008
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 30 days
+    price: 1750.0
+cs-009.yml:
+  buy:
+    price: 25000.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: cs-009
+    type: buy
+    world: Andolon5
+cs-010.yml:
+  buy:
+    price: 25000.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: cs-010
+    type: buy
+    world: Andolon5
+cs-011.yml:
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: cs-011
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 30 days
+    price: 2000.0
+cs-012.yml:
+  buy:
+    price: 25000.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: cs-012
+    type: buy
+    world: Andolon5
+cs-013.yml:
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: cs-013
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 30 days
+    price: 2000.0
+cs-014.yml:
+  buy:
+    price: 35000.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: cs-014
+    type: buy
+    world: Andolon5
+cs-015.yml:
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: cs-015
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 30 days
+    price: 1750.0
+cs-016.yml:
+  buy:
+    price: 25000.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: cs-016
+    type: buy
+    world: Andolon5
+cs-017.yml:
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: cs-017
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 30 days
+    price: 1750.0
+f-001.yml:
+  buy:
+    buyer: f44d02eb-c6c3-44d9-8e79-b8d64883f37a
+    buyerName: DoubbleKerius
+    price: 5500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1672870486405
+    name: f-001
+    type: buy
+    world: Andolon5
+f-002.yml:
+  buy:
+    price: 5500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: f-002
+    type: buy
+    world: Andolon5
+f-003.yml:
+  buy:
+    price: 5500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: f-003
+    type: buy
+    world: Andolon5
+f-004.yml:
+  buy:
+    price: 5500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: f-004
+    type: buy
+    world: Andolon5
+f-005.yml:
+  buy:
+    price: 5500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: f-005
+    type: buy
+    world: Andolon5
+f-006.yml:
+  buy:
+    price: 5500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: f-006
+    type: buy
+    world: Andolon5
+f-007.yml:
+  buy:
+    buyer: 4b01915f-6b62-4861-8ae1-b30b559f4c8c
+    buyerName: UnityMaster
+    price: 5500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1685770597159
+    name: f-007
+    type: buy
+    world: Andolon5
+f-008.yml:
+  buy:
+    buyer: cd260117-a684-418b-bd1b-4dfd990f9084
+    buyerName: WaffleSlime4258
+    price: 5500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1672870486405
+    name: f-008
+    type: buy
+    world: Andolon5
+f-009.yml:
+  buy:
+    buyer: c32507b6-c691-46f8-831e-ec47ec181029
+    buyerName: Matty707
+    price: 5500.0
+  general:
+    friends:
+    - 86b16f55-8641-44b0-b996-eba7c4ea7677
+    - a12cd218-6ffb-4e2b-9519-2682e976dbaa
+    - c4b3ed28-d61c-46bc-8f0d-b87f81620974
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1672870486405
+    name: f-009
+    type: buy
+    world: Andolon5
+f-010.yml:
+  buy:
+    price: 5500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: f-010
+    type: buy
+    world: Andolon5
+f-011.yml:
+  buy:
+    price: 5500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: f-011
+    type: buy
+    world: Andolon5
+f-012.yml:
+  buy:
+    price: 5500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: f-012
+    type: buy
+    world: Andolon5
+f-013.yml:
+  buy:
+    price: 5500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: f-013
+    type: buy
+    world: Andolon5
+f-014.yml:
+  buy:
+    price: 5500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: f-014
+    type: buy
+    world: Andolon5
+f-015.yml:
+  buy:
+    price: 5500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: f-015
+    type: buy
+    world: Andolon5
+f-016.yml:
+  buy:
+    price: 5500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: f-016
+    type: buy
+    world: Andolon5
+f-017.yml:
+  buy:
+    price: 5500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: f-017
+    type: buy
+    world: Andolon5
+f-018.yml:
+  buy:
+    price: 5500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: f-018
+    type: buy
+    world: Andolon5
+mcorp-f2-apt1.yml:
+  general:
+    landlord: c32507b6-c691-46f8-831e-ec47ec181029
+    landlordName: Matty707
+    name: mcorp-f2-apt1
+    signs:
+      '0':
+        facing: SOUTH
+        location:
+          world: Andolon5
+          x: 1587.0
+          y: 30.0
+          z: 632.0
+        signType: OAK_WALL_SIGN
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 30 days
+    price: 300.0
+mcorp-f2-apt2.yml:
+  general:
+    landlord: c32507b6-c691-46f8-831e-ec47ec181029
+    landlordName: Matty707
+    name: mcorp-f2-apt2
+    signs: {}
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 30 days
+    price: 250.0
+mcorp-f2-apt3.yml:
+  general:
+    landlord: c32507b6-c691-46f8-831e-ec47ec181029
+    landlordName: Matty707
+    name: mcorp-f2-apt3
+    signs:
+      '0':
+        facing: SOUTH
+        location:
+          world: Andolon5
+          x: 1591.0
+          y: 29.0
+          z: 632.0
+        signType: OAK_WALL_SIGN
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 30 days
+    price: 200.0
+mcorp-f2-apt4.yml:
+  general:
+    landlord: c32507b6-c691-46f8-831e-ec47ec181029
+    landlordName: Matty707
+    name: mcorp-f2-apt4
+    signs: {}
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 30 days
+    price: 150.0
+mcorp-f3-apt1.yml:
+  general:
+    landlord: c32507b6-c691-46f8-831e-ec47ec181029
+    landlordName: Matty707
+    name: mcorp-f3-apt1
+    signs:
+      '0':
+        facing: SOUTH
+        location:
+          world: Andolon5
+          x: 1587.0
+          y: 35.0
+          z: 632.0
+        signType: OAK_WALL_SIGN
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 30 days
+    price: 300.0
+mcorp-f3-apt2.yml:
+  general:
+    landlord: c32507b6-c691-46f8-831e-ec47ec181029
+    landlordName: Matty707
+    name: mcorp-f3-apt2
+    signs: {}
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 30 days
+    price: 250.0
+mcorp-f3-apt3.yml:
+  general:
+    landlord: c32507b6-c691-46f8-831e-ec47ec181029
+    landlordName: Matty707
+    name: mcorp-f3-apt3
+    signs:
+      '0':
+        facing: SOUTH
+        location:
+          world: Andolon5
+          x: 1591.0
+          y: 34.0
+          z: 632.0
+        signType: OAK_WALL_SIGN
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 30 days
+    price: 200.0
+mcorp-f3-apt4.yml:
+  general:
+    landlord: c32507b6-c691-46f8-831e-ec47ec181029
+    landlordName: Matty707
+    name: mcorp-f3-apt4
+    signs: {}
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 30 days
+    price: 150.0
+mcorp-f4-apt1.yml:
+  general:
+    landlord: c32507b6-c691-46f8-831e-ec47ec181029
+    landlordName: Matty707
+    name: mcorp-f4-apt1
+    signs:
+      '0':
+        facing: SOUTH
+        location:
+          world: Andolon5
+          x: 1587.0
+          y: 40.0
+          z: 632.0
+        signType: OAK_WALL_SIGN
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 30 days
+    price: 300.0
+mcorp-f4-apt2.yml:
+  general:
+    landlord: c32507b6-c691-46f8-831e-ec47ec181029
+    landlordName: Matty707
+    name: mcorp-f4-apt2
+    signs: {}
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 30 days
+    price: 250.0
+mcorp-f4-apt3.yml:
+  general:
+    landlord: c32507b6-c691-46f8-831e-ec47ec181029
+    landlordName: Matty707
+    name: mcorp-f4-apt3
+    signs:
+      '0':
+        facing: SOUTH
+        location:
+          world: Andolon5
+          x: 1591.0
+          y: 39.0
+          z: 632.0
+        signType: OAK_WALL_SIGN
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 30 days
+    price: 200.0
+mcorp-f4-apt4.yml:
+  general:
+    landlord: c32507b6-c691-46f8-831e-ec47ec181029
+    landlordName: Matty707
+    name: mcorp-f4-apt4
+    signs: {}
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 30 days
+    price: 150.0
+mcorp-f5-apt1.yml:
+  general:
+    landlord: c32507b6-c691-46f8-831e-ec47ec181029
+    landlordName: Matty707
+    name: mcorp-f5-apt1
+    signs:
+      '0':
+        facing: SOUTH
+        location:
+          world: Andolon5
+          x: 1587.0
+          y: 45.0
+          z: 632.0
+        signType: OAK_WALL_SIGN
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 30 days
+    price: 300.0
+mcorp-f5-apt2.yml:
+  general:
+    landlord: c32507b6-c691-46f8-831e-ec47ec181029
+    landlordName: Matty707
+    lastActive: 1683676805665
+    name: mcorp-f5-apt2
+    signs: {}
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 30 days
+    price: 250.0
+    rentedUntil: 1686240057677
+    renter: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    renterName: Andolon
+    timesExtended: 0
+mcorp-f5-apt3.yml:
+  general:
+    landlord: c32507b6-c691-46f8-831e-ec47ec181029
+    landlordName: Matty707
+    name: mcorp-f5-apt3
+    signs:
+      '0':
+        facing: SOUTH
+        location:
+          world: Andolon5
+          x: 1591.0
+          y: 44.0
+          z: 632.0
+        signType: OAK_WALL_SIGN
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 30 days
+    price: 200.0
+mcorp-f5-apt4.yml:
+  general:
+    landlord: c32507b6-c691-46f8-831e-ec47ec181029
+    landlordName: Matty707
+    name: mcorp-f5-apt4
+    signs: {}
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 30 days
+    price: 150.0
+mcorp-f6-apt1.yml:
+  general:
+    landlord: c32507b6-c691-46f8-831e-ec47ec181029
+    landlordName: Matty707
+    name: mcorp-f6-apt1
+    signs:
+      '0':
+        facing: SOUTH
+        location:
+          world: Andolon5
+          x: 1587.0
+          y: 50.0
+          z: 632.0
+        signType: OAK_WALL_SIGN
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 30 days
+    price: 300.0
+mcorp-f6-apt2.yml:
+  general:
+    landlord: c32507b6-c691-46f8-831e-ec47ec181029
+    landlordName: Matty707
+    lastActive: 1685522051767
+    name: mcorp-f6-apt2
+    signs: {}
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 30 days
+    price: 250.0
+    rentedUntil: 1690026469702
+    renter: 8285fabd-b29b-4815-b543-243fde2d445c
+    renterName: The_Donuticus
+    timesExtended: 1
+mcorp-f6-apt3.yml:
+  general:
+    landlord: c32507b6-c691-46f8-831e-ec47ec181029
+    landlordName: Matty707
+    name: mcorp-f6-apt3
+    signs:
+      '0':
+        facing: SOUTH
+        location:
+          world: Andolon5
+          x: 1591.0
+          y: 49.0
+          z: 632.0
+        signType: OAK_WALL_SIGN
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 30 days
+    price: 200.0
+mcorp-f6-apt4.yml:
+  general:
+    landlord: c32507b6-c691-46f8-831e-ec47ec181029
+    landlordName: Matty707
+    name: mcorp-f6-apt4
+    signs: {}
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 30 days
+    price: 150.0
+r-001.yml:
+  buy:
+    price: 3500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: r-001
+    type: buy
+    world: Andolon5
+r-002.yml:
+  buy:
+    price: 3500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: r-002
+    type: buy
+    world: Andolon5
+r-003.yml:
+  buy:
+    price: 3500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: r-003
+    type: buy
+    world: Andolon5
+r-004-towers.yml:
+  general:
+    landlord: 4b01915f-6b62-4861-8ae1-b30b559f4c8c
+    landlordName: UnityMaster
+    name: r-004-towers
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 7 days
+    price: 100.0
+r-004.yml:
+  buy:
+    buyer: 4b01915f-6b62-4861-8ae1-b30b559f4c8c
+    buyerName: UnityMaster
+    price: 3500.0
+  general:
+    friends:
+    - 7183167f-0e85-4a2e-836f-43f20053c55c
+    - e8d195db-1d29-4e55-98e8-43f5afcc4958
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1685770597159
+    name: r-004
+    type: buy
+    world: Andolon5
+r-005.yml:
+  buy:
+    price: 3500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: r-005
+    type: buy
+    world: Andolon5
+r-006.yml:
+  buy:
+    price: 3500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: r-006
+    type: buy
+    world: Andolon5
+r-007.yml:
+  buy:
+    price: 3500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: r-007
+    type: buy
+    world: Andolon5
+r-008.yml:
+  buy:
+    price: 3500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: r-008
+    type: buy
+    world: Andolon5
+r-009.yml:
+  buy:
+    price: 3500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: r-009
+    type: buy
+    world: Andolon5
+r-010.yml:
+  buy:
+    price: 3500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: r-010
+    type: buy
+    world: Andolon5
+r-011.yml:
+  buy:
+    price: 3500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: r-011
+    type: buy
+    world: Andolon5
+r-012.yml:
+  buy:
+    price: 3500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: r-012
+    type: buy
+    world: Andolon5
+r-013.yml:
+  buy:
+    buyer: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    buyerName: Andolon
+    price: 3500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1683676805665
+    name: r-013
+    type: buy
+    world: Andolon5
+r-014.yml:
+  buy:
+    buyer: 15882919-c13a-407c-b672-cb882260ff45
+    buyerName: NightCitizen7
+    price: 3500.0
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    lastActive: 1678753382774
+    name: r-014
+    type: buy
+    world: Andolon5
+startower-1.yml:
+  general:
+    landlord: c32507b6-c691-46f8-831e-ec47ec181029
+    landlordName: Matty707
+    name: startower-1
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 7 days
+    price: 25.0
+startower-2.yml:
+  general:
+    landlord: c32507b6-c691-46f8-831e-ec47ec181029
+    landlordName: Matty707
+    name: startower-2
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 7 days
+    price: 25.0
+startower-3.yml:
+  general:
+    landlord: c32507b6-c691-46f8-831e-ec47ec181029
+    landlordName: Matty707
+    name: startower-3
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 7 days
+    price: 25.0
+startower-4.yml:
+  general:
+    landlord: c32507b6-c691-46f8-831e-ec47ec181029
+    landlordName: Matty707
+    name: startower-4
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 7 days
+    price: 25.0
+subwaystore-1.yml:
+  general:
+    landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+    landlordName: Andolon
+    name: subwaystore-1
+    signs:
+      '0':
+        facing: NORTH
+        location:
+          world: Andolon5
+          x: 1578.0
+          y: 17.0
+          z: 534.0
+        signType: BIRCH_WALL_SIGN
+    type: rent
+    world: Andolon5
+  rent:
+    duration: 30 days
+    price: 500.0
