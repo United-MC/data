@@ -7,6 +7,17 @@ jobs:
     name: Run Convert Script
     runs-on: ubuntu-latest
     steps:
+    - name: List
+      run: ls
+      shell: sh
+      
+    - name: Check-out devops repository
+      uses: actions/checkout@v2
+      with:
+        repository: United-MC/data
+        token: ${{ secrets.GITHUB_TOKEN }}
+        path: ${{ env.DEVOPS_DIR }}
+      
     - name: Run Script
       run: python mergeYamlAndConvert.py
       shell: sh
