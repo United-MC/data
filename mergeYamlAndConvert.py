@@ -3,9 +3,10 @@ import os
 import yaml
 import xml.etree.ElementTree as ET
 import xml.dom.minidom
+import xml.sax.saxutils
 
 # Define the directory where your YAML files are located
-data_directory = 'plugins/AreaShop/regions/'
+data_directory = 'data/'
 
 # Initialize an empty dictionary to store the YAML contents
 yaml_objects = {}
@@ -42,9 +43,9 @@ def convert_to_xml(element, data):
                 convert_to_xml(sub_element, item)
             else:
                 sub_element = ET.SubElement(element, 'item')
-                sub_element.text = str(item)
+                sub_element.text = xml.sax.saxutils.escape(str(item))
     else:
-        element.text = str(data)
+        element.text = xml.sax.saxutils.escape(str(data))
 
 root = ET.Element('root')
 for filename, yaml_data in yaml_objects.items():
