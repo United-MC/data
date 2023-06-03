@@ -42,9 +42,9 @@ def convert_to_xml(element, data):
                 convert_to_xml(sub_element, item)
             else:
                 sub_element = ET.SubElement(element, 'item', index=str(i))
-                sub_element.text = xml.sax.saxutils.escape(str(item))
+                sub_element.text = xml.sax.saxutils.escape(str(item) if item is not None else '')
     else:
-        element.text = xml.sax.saxutils.escape(str(data))
+        element.text = xml.sax.saxutils.escape(str(data) if data is not None else '')
 
 root = ET.Element('root')
 for filename, yaml_data in yaml_objects.items():
@@ -68,13 +68,11 @@ rename_tags_with_numbers(root)
 tree = ET.ElementTree(root)
 
 # Write the XML data to the output XML file with pretty formatting
-tree.write(output_file_xml, encoding='utf-8', xml_declaration=True)
+with open(output_file_xml, 'w', encoding='utf-8') as file:
+    tree.write(file, encoding='unicode', xml_declaration=True)
 
 # Read the XML data from the file and apply pretty formatting
-with open(output_file_xml, 'r') as file:
+with open(output_file_xml, 'r', encoding='utf-8') as file:
     xml_data = file.read()
     xml_data = xml_data.replace('><', '>\n<')
 
-# Write the pretty-printed XML data to the output XML file
-with open(output_file_xml, 'w') as file:
-    file.write(xml_data)
