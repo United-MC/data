@@ -1,0 +1,12 @@
+name: On Push Run
+
+on: push
+
+jobs:
+  convert:
+    name: Run Conver Script
+    runs-on: ubuntu-latest
+    steps:
+    - name: Run Script
+      run: python mergeYamlAndConvert.py
+      shell: sh
